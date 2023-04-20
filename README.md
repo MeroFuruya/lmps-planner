@@ -1,0 +1,15 @@
+# lmps-planner
+
+## Environment Variables
+
+```text
+
+ORACLEDB_USER
+ORACLEDB_PASSWORD
+ORACLEDB_CONNECTIONSTRING
+
+TENANT_ID
+CLIENT_ID
+REDIRECT_URI
+
+```
